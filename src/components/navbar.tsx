@@ -39,7 +39,8 @@ export default function Navbar() {
           <Tooltip>
             <TooltipTrigger asChild>
               <Link
-                href="/blog"
+                href="https://taylorfacen.hashnode.dev/"
+                target="_blank"
                 className={cn(
                   buttonVariants({ variant: "ghost", size: "icon" }),
                   "size-12"
