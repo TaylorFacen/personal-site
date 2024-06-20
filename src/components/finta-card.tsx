@@ -41,7 +41,7 @@ export function FintaCard() {
               {websiteUrl?.replace("https://", "").replace("www.", "").replace("/", "")}
             </div>
             <Markdown className="prose max-w-full py-2 text-pretty font-sans text-sm text-foreground dark:prose-invert">
-              During my nights and weekends, I'm working on Finta - an app that automatically syncs your acocunt balances, transactions, investments, and Stripe data to Airtable, Notion, Coda and Google Sheets so that you can manage your finances where you want, how you want.
+              During my nights and weekends, I&apos;m working on Finta - an app that automatically syncs your account balances, transactions, investments, and Stripe data to Airtable, Notion, Coda and Google Sheets so that you can manage your finances where you want, how you want.
             </Markdown>
           </div>
         </CardHeader>
